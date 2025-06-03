@@ -1,2 +1,3 @@
 Name: 213815-lethanhdat
 Interests: Coding, Design
+Skills: Python, Linux, Git
